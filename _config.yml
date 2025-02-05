@@ -195,7 +195,7 @@ exclude:
   - _posts/ # first exclude by Priyam
   - _pages/blog.md
   - _projects
-  - _pages/project.md
+  - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
