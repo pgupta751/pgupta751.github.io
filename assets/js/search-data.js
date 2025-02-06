@@ -23,16 +23,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+        },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-graduated-with-my-bsc-in-computer-science-from-purdue-university-smile",
+          title: 'I graduated with my BSc in Computer Science from Purdue University. :smile:',
+          description: "",
+          section: "News",},{id: "news-i-presented-my-work-on-increasing-the-expressiveness-of-a-gradual-verifier-at-popl-25-src",
+          title: 'I presented my work on Increasing the Expressiveness of a Gradual Verifier at...',
           description: "",
           section: "News",},{
         id: 'social-email',
