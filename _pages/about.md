@@ -27,7 +27,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a research assistant in the Elmore Family School of Electrical and Computer Engineering at Purdue University, working with Prof. Jenna DiVincenzo.
+I am currently a research assistant in the Elmore Family School of Electrical and Computer Engineering at Purdue University, working with Prof. [Jenna DiVincenzo](https://jennalwise.github.io).
 
 I work on gradual verification, a technique that seamlessly combines static (compile time) and dynamic (run time) verification techniques to enable incremental specification and verification of code.
 
