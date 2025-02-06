@@ -23,13 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-graduated-with-my-bsc-in-computer-science-from-purdue-university-smile",
-          title: 'I graduated with my BSc in Computer Science from Purdue University. :smile:',
+        },{id: "news-i-graduated-with-my-bsc-in-computer-science-from-purdue-university-sparkles",
+          title: 'I graduated with my BSc in Computer Science from Purdue University. :sparkles:',
           description: "",
           section: "News",},{id: "news-i-presented-my-work-on-increasing-the-expressiveness-of-a-gradual-verifier-at-popl-25-src",
           title: 'I presented my work on Increasing the Expressiveness of a Gradual Verifier at...',
