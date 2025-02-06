@@ -29,7 +29,7 @@ announcements:
 
 I am currently a research assistant in the Elmore Family School of Electrical and Computer Engineering at Purdue University, working with Prof. Jenna DiVincenzo.
 
-I work on gradual verification, a techique that seamlessly combines static (compile time) and dynamic (run time) verification techniques to enable incremental specification and verification of code.
+I work on gradual verification, a technique that seamlessly combines static (compile time) and dynamic (run time) verification techniques to enable incremental specification and verification of code.
 
 I am interested in formal methods research and its potential to improve how developers write and reason about software. 
 
